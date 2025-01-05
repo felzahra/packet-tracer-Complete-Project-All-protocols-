@@ -1,5 +1,13 @@
 README.md
 
+![CCNA-project-screenshoot](https://github.com/user-attachments/assets/c2e47cab-5d2e-43a1-a157-c9a10953bbde)
+
+![Final-CCNA-BGP-CORE-screenshoot](https://github.com/user-attachments/assets/e75f9e6f-c7fe-488d-9a8d-f53e9561042e)
+![Final-CCNA-DC-screenshoot](https://github.com/user-attachments/assets/c99fb4f6-b227-4f0c-b25a-4ec5481e8e46)
+![CCNA-CC-Screenshoot](https://github.com/user-attachments/assets/53ed13e5-f918-4cfc-bea7-42a8a4acf361)
+![CCNA-CB-Screenshoot](https://github.com/user-attachments/assets/d5a2122c-b3de-42ac-afbb-414906d1e629)
+![CCNA-CA-Screenshoot](https://github.com/user-attachments/assets/e55bfb18-2c59-464d-8aa0-b7aad2319b0a)
+
 This is the documentation for my Final CCNA project.
 * This project uses a bit more technologies than their are described in the CCNA 200-301 Cisco's Exam Blueprint:Route redistributions, Point-to-Point Protocol with CHAP authentication.
 
